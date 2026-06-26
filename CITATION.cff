@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+message: "If you use this taxonomy in your research or creative work, please cite it as follows."
+authors:
+  - family-names: "Tian"
+    given-names: "Zihan"
+    orcid: ""
+title: "超自然实体本体论分类学：双轴模型 (Supernatural Ontology Taxonomy: The Bi-Axial Model)"
+version: 1.0.0
+date-released: 2026-06-26
+url: "https://github.com/exporterdream/supernatural-ontology-taxonomy"
+repository: "https://github.com/exporterdream/supernatural-ontology-taxonomy"
+license: "CC-BY-NC-4.0"
+preferred-citation:
+  type: "software"
+  authors:
+    - family-names: "Tian"
+      given-names: "Zihan"
+  title: "Supernatural Ontology Taxonomy: The Bi-Axial Model of Source and Dimension"
+  year: 2026
+  url: "https://github.com/exporterdream/supernatural-ontology-taxonomy"
+  version: 1.0.0
+references:
+  - type: "book"
+    authors:
+      - family-names: "Cohen"
+        given-names: "Jeffrey Jerome"
+    title: "Monster Theory: Reading Culture"
+    year: 1996
+    publisher: "University of Minnesota Press"
+  - type: "article"
+    authors:
+      - family-names: "Gruber"
+        given-names: "Thomas R."
+    title: "A translation approach to portable ontology specifications"
+    journal: "Knowledge Acquisition"
+    volume: 5
+    issue: 2
+    pages: "199-220"
+    year: 1993
+  - type: "book"
+    authors:
+      - family-names: "Ullmann"
+        given-names: "Stephen"
+    title: "Semantics: An Introduction to the Science of Meaning"
+    year: 1962
+    publisher: "Blackwell"
+  - type: "book-chapter"
+    authors:
+      - family-names: "Asad"
+        given-names: "Talal"
+    title: "The concept of cultural translation in British social anthropology"
+    editors:
+      - family-names: "Clifford"
+        given-names: "James"
+      - family-names: "Marcus"
+        given-names: "George E."
+    book-title: "Writing Culture: The Poetics and Politics of Ethnography"
+    pages: "141-164"
+    year: 1986
+    publisher: "University of California Press"
+  - type: "book-chapter"
+    authors:
+      - family-names: "Said"
+        given-names: "Edward W."
+    title: "Traveling theory"
+    book-title: "The World, the Text, and the Critic"
+    pages: "226-247"
+    year: 1983
+    publisher: "Harvard University Press"
