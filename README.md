@@ -208,5 +208,5 @@
 
 ## 🔗 相关链接
 
-- [Humanities Commons预印本（含DOI）](10.17613/kehzh-7zh05)
+- [Humanities Commons预印本（含DOI）](https://doi.org/10.17613/kehzh-7zh05)
 - [GitHub Pages在线展示页](https://github.com/exporterdream/supernatural-ontology-taxonomy)
