@@ -49,4 +49,4 @@ The paper argues that confusion in supernatural classification arises from the *
 
 > Tian Zihan. (2026). *Supernatural Ontology Taxonomy: The Bi-Axial Model of Source and Dimension*. Version 1.0. Retrieved from https://github.com/exporterdream/supernatural-ontology-taxonomy
 
-**DOI**: [To be assigned upon SSRN submission]
+**DOI**: 10.17613/kehzh-7zh05
