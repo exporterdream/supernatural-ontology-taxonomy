@@ -4,7 +4,7 @@
 **永久锚定版本**: 2026-06-26  
 **作者**: Zihan Tian  
 **许可协议**: CC BY-NC 4.0 (署名-非商业性使用)  
-**项目 DOI**: [待SSRN注册后填写]
+**项目 DOI**:10.17613/kehzh-7zh05
 
 ---
 
@@ -208,5 +208,5 @@
 
 ## 🔗 相关链接
 
-- [SSRN预印本（含DOI）](待补充)
+- [Humanities Commons预印本（含DOI）](10.17613/kehzh-7zh05)
 - [GitHub Pages在线展示页](https://github.com/exporterdream/supernatural-ontology-taxonomy)
